@@ -1,2 +1,2 @@
-# atom2
+# component01
 Created with CodeSandbox
